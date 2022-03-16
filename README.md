@@ -1,0 +1,1 @@
+I've learned a lot about using GIT & Visual Studio Code for individual programmers; Though I want to be able to use Visual Studio in order to work along with my colleages in various projects I have planned along the way. Other than that, enjoy this miniproject from The Odin Project!
